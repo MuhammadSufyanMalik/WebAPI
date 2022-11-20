@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneApi/MilliKutuphaneApi.csproj": {}
+  },
+  "projects": {
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneApi/MilliKutuphaneApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneApi/MilliKutuphaneApi.csproj",
+        "projectName": "MilliKutuphaneApi",
+        "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneApi/MilliKutuphaneApi.csproj",
+        "packagesPath": "/Users/muhammadsufyanmalik/.nuget/packages/",
+        "outputPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadsufyanmalik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/MilliKutuphaneBusiness.csproj": {
+                "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/MilliKutuphaneBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/MilliKutuphaneBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/MilliKutuphaneBusiness.csproj",
+        "projectName": "MilliKutuphaneBusiness",
+        "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/MilliKutuphaneBusiness.csproj",
+        "packagesPath": "/Users/muhammadsufyanmalik/.nuget/packages/",
+        "outputPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneBusiness/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadsufyanmalik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/MilliKutuphaneDataAccess.csproj": {
+                "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/MilliKutuphaneDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/MilliKutuphaneCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/MilliKutuphaneCore.csproj",
+        "projectName": "MilliKutuphaneCore",
+        "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/MilliKutuphaneCore.csproj",
+        "packagesPath": "/Users/muhammadsufyanmalik/.nuget/packages/",
+        "outputPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadsufyanmalik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/MilliKutuphaneDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/MilliKutuphaneDataAccess.csproj",
+        "projectName": "MilliKutuphaneDataAccess",
+        "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/MilliKutuphaneDataAccess.csproj",
+        "packagesPath": "/Users/muhammadsufyanmalik/.nuget/packages/",
+        "outputPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadsufyanmalik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/MilliKutuphaneEntities.csproj": {
+                "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/MilliKutuphaneEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/MilliKutuphaneEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/MilliKutuphaneEntities.csproj",
+        "projectName": "MilliKutuphaneEntities",
+        "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/MilliKutuphaneEntities.csproj",
+        "packagesPath": "/Users/muhammadsufyanmalik/.nuget/packages/",
+        "outputPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneEntities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadsufyanmalik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/MilliKutuphaneCore.csproj": {
+                "projectPath": "/Users/muhammadsufyanmalik/Projects/MilliKutuphane/Api/MilliKutuphaneCore/MilliKutuphaneCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MilliKutuphaneEntities/1.0.0": {
+        "dependencies": {
+          "MilliKutuphaneCore": "1.0.0"
+        },
+        "runtime": {
+          "MilliKutuphaneEntities.dll": {}
+        }
+      },
+      "MilliKutuphaneCore/1.0.0": {
+        "runtime": {
+          "MilliKutuphaneCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilliKutuphaneEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MilliKutuphaneCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

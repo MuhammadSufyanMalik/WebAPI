@@ -1,0 +1,12 @@
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\bin\Release\net6.0\MilliKutuphaneCore.deps.json
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\bin\Release\net6.0\MilliKutuphaneCore.dll
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\bin\Release\net6.0\MilliKutuphaneCore.pdb
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.csproj.AssemblyReference.cache
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.AssemblyInfoInputs.cache
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.AssemblyInfo.cs
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.dll
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\refint\MilliKutuphaneCore.dll
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\MilliKutuphaneCore.pdb
+C:\Users\muhammad.sufyan\source\repos\MilliKutuphaneApi\MilliKutuphaneCore\obj\Release\net6.0\ref\MilliKutuphaneCore.dll
